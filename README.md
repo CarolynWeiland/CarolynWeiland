@@ -1,15 +1,6 @@
 # Hi there, I'm Carolyn Weiland! 👋
 
- ____                                ___                          
-/\  _`\                             /\_ \                         
-\ \ \/\_\     __      _ __    ___   \//\ \     __  __      ___    
- \ \ \/_/_  /'__`\   /\`'__\ / __`\   \ \ \   /\ \/\ \   /' _ `\  
-  \ \ \L\ \/\ \L\.\_ \ \ \/ /\ \L\ \   \_\ \_ \ \ \_\ \  /\ \/\ \ 
-   \ \____/\ \__/.\_\ \ \_\ \ \____/   /\____\ \/`____ \ \ \_\ \_\
-    \/___/  \/__/\/_/  \/_/  \/___/    \/____/  `/___/> \ \/_/\/_/
-                                                   /\___/         
-                                                   \/__/          
-
+![Here is my art signature](sign.png)
 
 I'm a passionate artist and aspiring technologist with a love for drawing and a growing interest in computer graphics. I'm excited to explore the intersection of art and technology, and I'm on a journey to learn more about computer-generated imagery, digital art tools, and creative coding.
 
