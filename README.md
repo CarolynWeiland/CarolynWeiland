@@ -1,4 +1,14 @@
 # Hi there, I'm Carolyn Weiland! 👋
+ ____                                ___                                      __      __                    ___                           __     
+/\  _`\                             /\_ \                                    /\ \  __/\ \            __    /\_ \                         /\ \    
+\ \ \/\_\     __      _ __    ___   \//\ \     __  __      ___               \ \ \/\ \ \ \     __   /\_\   \//\ \       __       ___     \_\ \   
+ \ \ \/_/_  /'__`\   /\`'__\ / __`\   \ \ \   /\ \/\ \   /' _ `\              \ \ \ \ \ \ \  /'__`\ \/\ \    \ \ \    /'__`\   /' _ `\   /'_` \  
+  \ \ \L\ \/\ \L\.\_ \ \ \/ /\ \L\ \   \_\ \_ \ \ \_\ \  /\ \/\ \              \ \ \_/ \_\ \/\  __/  \ \ \    \_\ \_ /\ \L\.\_ /\ \/\ \ /\ \L\ \ 
+   \ \____/\ \__/.\_\ \ \_\ \ \____/   /\____\ \/`____ \ \ \_\ \_\              \ `\___x___/\ \____\  \ \_\   /\____\\ \__/.\_\\ \_\ \_\\ \___,_\
+    \/___/  \/__/\/_/  \/_/  \/___/    \/____/  `/___/> \ \/_/\/_/               '\/__//__/  \/____/   \/_/   \/____/ \/__/\/_/ \/_/\/_/ \/__,_ /
+                                                   /\___/                                                                                        
+                                                   \/__/                                                                                         
+
 
 I'm a passionate artist and aspiring technologist with a love for drawing and a growing interest in computer graphics. I'm excited to explore the intersection of art and technology, and I'm on a journey to learn more about computer-generated imagery, digital art tools, and creative coding.
 
